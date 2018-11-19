@@ -1,3 +1,5 @@
+Adapted from [this repository](https://github.com/osdf/datasets). Used in [this repository](https://github.com/NYU-CDS-Capstone-Project/learning_visual_embeddings).
+
 If you don't have `mnist.h5` in this directory, cd to this directory, and run the following commands:
   - `mkdir data`
   - download mnist.pkl.gz from deeplearning.net: `wget http://deeplearning.net/data/mnist/mnist.pkl.gz -O data/mnist.pkl.gz`
